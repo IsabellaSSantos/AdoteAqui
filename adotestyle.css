@@ -63,7 +63,7 @@ li a {
 }
 footer     {
     background: rgb(31, 173, 173);
-    padding: 21px;
+    padding: 20px;
     text-align: center;
 } 
 @media (max-width: 700px) {
